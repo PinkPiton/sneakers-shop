@@ -1,1 +1,1 @@
-export * from "./base";
+export { israfilRequester } from "./base";
